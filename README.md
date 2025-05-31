@@ -17,4 +17,4 @@ Building intelligent software solutions. Currently developing AI platforms and c
 - Educational platforms with real-time data
 - Full-stack web apps and AI integrations
 
-📫 📫 [LinkedIn](https://www.linkedin.com/in/a-shahrabi/) | [Email](your-email@gmail.com) | [Portfolio](https://ardavan-portfolio.vercel.app/)
+📫 [LinkedIn](https://www.linkedin.com/in/a-shahrabi/) | [Email](your-email@gmail.com) | [Portfolio](https://ardavan-portfolio.vercel.app/)
