@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ardavan 👋
 
-<!--
-**a-shahrabi/a-shahrabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer | AI/ML Engineer | Published Researcher**
 
-Here are some ideas to get you started:
+Building intelligent software solutions. Currently developing AI platforms and collaborating on ML research at University of Toronto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 1st Place Agentic AI Hackathon | 📄 Published CPM 2023 | 🎓 CS First Class Honours
+
+## 🛠️ Tech Stack
+**Frontend:** React, Next.js, TypeScript  
+**Backend:** Node.js, Python, FastAPI  
+**AI/ML:** PyTorch, BERT, OpenAI API  
+**Data:** PostgreSQL, MongoDB, Pandas  
+
+## 🚀 Current Focus
+- AI research for manufacturing optimization (UofT)
+- Educational platforms with real-time data
+- Full-stack web apps and AI integrations
+
+📫 [LinkedIn](link) | [Email](email) | [Portfolio](link)
