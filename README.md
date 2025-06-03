@@ -1,4 +1,4 @@
-# Hi, I'm Ardavan 👋
+# Hi, I'm Ardavan 
 
 **Full-Stack Developer | AI/ML Engineer | Published Researcher**
 
