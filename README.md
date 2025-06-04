@@ -10,7 +10,7 @@ Building intelligent software solutions. Currently developing AI platforms and c
 **Frontend:** React, Next.js, TypeScript  
 **Backend:** Node.js, Python, FastAPI  
 **AI/ML:** PyTorch, BERT, OpenAI API  
-**Data:** PostgreSQL, MongoDB, Pandas  
+**Data:** PostgreSQL, MongoDB, Pandas, Numpy  
 
 ## 🚀 Current Focus
 - AI research for manufacturing optimization (UofT)
