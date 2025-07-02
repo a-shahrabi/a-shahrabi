@@ -13,7 +13,7 @@ Building intelligent software solutions. Currently developing AI platforms and c
 **Data:** PostgreSQL, MongoDB, Pandas, Numpy  
 
 ## 🚀 Current Focus
-- AI research for manufacturing optimization (UofT)
+- AI research (UofT)
 - Educational platforms with real-time data
 - Full-stack web apps and AI integrations
 
